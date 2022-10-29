@@ -60,6 +60,7 @@ class Galya():
         for i in range(counts):
             self.random()
             temp.append(self.Gadany())
+
         return temp
 
 if __name__ == '__main__':
